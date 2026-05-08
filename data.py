@@ -31,4 +31,6 @@ print(df.describe())
 print(df[['math score', 'reading score', 'writing score']].mean())
 
 
+# GroupBy Analysis
+print(df.groupby('gender')[['math score','reading score','writing score']].mean())
 
