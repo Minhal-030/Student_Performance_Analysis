@@ -38,4 +38,4 @@ Source: Kaggle
 
 "# Statistics added" 
 "## Statistics Branch" 
-"Master branch change" 
+Both changes resolved
